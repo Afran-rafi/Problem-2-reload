@@ -1,0 +1,11 @@
+.bg-blue{
+    background-image: linear-gradient(#29c6fa , #cbf2ff);
+}
+
+li{
+    margin-right: 30px;
+}
+
+.navbar-p{
+    padding: 6px;
+}

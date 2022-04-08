@@ -1,0 +1,17 @@
+input{
+    width: 350px;
+}
+
+.submit-button{
+    border: none;
+    border-radius: 8px;
+    width: 80px;
+    background-color: lightseagreen;
+    color: white;
+}
+
+.w-h{
+    width: 40px;
+    height: 40px;
+    border: none;
+}
